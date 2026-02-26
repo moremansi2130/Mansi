@@ -1,1 +1,1 @@
-# Mansi
+# Student Record Management System 
